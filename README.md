@@ -34,4 +34,4 @@ The conjugation rules are shown more specifically in the table below. Note that 
 
 Here is a graph of the Spanish verb Finite State Transducer.
 
-![Spanish verb Finite State Transducer](https://user-images.githubusercontent.com/19893082/196309421-c165fa2c-c0c8-4166-98df-7699e06d92d1.png)
+![Spanish verb Finite State Transducer](https://raw.githubusercontent.com/wjonasreger/morphological_finite_state_transducer/main/fst.png)
