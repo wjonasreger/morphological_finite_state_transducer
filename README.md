@@ -35,3 +35,23 @@ The conjugation rules are shown more specifically in the table below. Note that 
 Here is a graph of the Spanish verb Finite State Transducer.
 
 ![Spanish verb Finite State Transducer](https://raw.githubusercontent.com/wjonasreger/morphological_finite_state_transducer/main/fst.png)
+
+Here are some example verbs parsed by the Spanish FST.
+
+|        Rule       | Infinitive | Actual Conjugate | Parsed Conjugate |
+|:-----------------:|:----------:|:----------------:|:----------------:|
+|     -Car : -Có    |   vacilar  |      vaciló      |      vaciló      |
+|     -Var : -Vó    |  boletear  |      boleteó     |      boleteó     |
+|    -Cer : -Ció    |  pretender |     pretendió    |     pretendió    |
+|    -Cir : -Ció    |   redimir  |      redimió     |      redimió     |
+|   -guir : -guió   |  extinguir |     extinguió    |     extinguió    |
+|   -quir : -quió   |  chasquir  |     chasquió     |     chasquió     |
+|     -ñer : -ñó    |    tañer   |       tañó       |       tañó       |
+|     -ñir : -ñó    |    fuñir   |       fuñó       |       fuñó       |
+|    -Ver : -Vyó    |    caer    |       cayó       |       cayó       |
+|    -Vir : -Vyó    |  instituir |     instituyó    |     instituyó    |
+|   -eCir : -iCió   |  proferir  |     profirió     |     profirió     |
+|  -eCCir : -iCCió  |   servir   |      sirvió      |      sirvió      |
+| -eCCCir : -iCCCió |  dehenchir |     dehinchió    |     dehinchió    |
+|  -eguir : -iguió  |  conseguir |     consiguió    |     consiguió    |
+|    -eñir : -iñó   |  estreñir  |      estriñó     |      estriñó     |
